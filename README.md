@@ -24,6 +24,15 @@ This is a simple Python project that lets you draw digits and recognizes them us
 ## 📌 Note
 This project runs only on Windows (because it uses `ImageGrab` and `win32gui`).
 
+## 📷 Screenshots
+
+
+![APP Screenshot](screenshot1.png)
+
+
+![APP Screenshot](screenshot2.png)
+
+
 
 
 
