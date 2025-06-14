@@ -26,11 +26,9 @@ This project runs only on Windows (because it uses `ImageGrab` and `win32gui`).
 
 ## 📷 Screenshots
 
+![Drawing Digit](Screenshot.png1.png.png)
+![Prediction Result](Screenshot.png2.png.png)
 
-![APP Screenshot](screenshot1.png)
-
-
-![APP Screenshot](screenshot2.png)
 
 
 
